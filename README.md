@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 😄 Developer passionate about application development in order to change the lives of its users, having a positive impact on the economy and user experience.
 
 ### Developer Technologies 
- --> PHP
+ <p> PHP </p>
  --> NodeJS (continuous learning)
  --> CSS
  --> ReactJS (continuous learning) 
