@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### Developer Technologies 
  <p> PHP </p>
- --> NodeJS (continuous learning)
- --> CSS
- --> ReactJS (continuous learning) 
+ <p>NodeJS (continuous learning)</p>
+ <p>CSS</p>
+ <p>ReactJS (continuous learning) </p>
