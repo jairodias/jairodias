@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Developers 👋
 
 <!--
 **jairodias/jairodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 😄 Desenvolvedor apaixonado pelo desenvolvimento de aplicações com intuito de mudar a vida de seus usuários, tendo um impacto positivo na economia e na experiência do usuário.
+
+😄 Developer passionate about application development in order to change the lives of its users, having a positive impact on the economy and user experience.
+
+### Developer Technologies 
+ --> PHP
+ --> NodeJS (continuous learning)
+ --> CSS
+ --> ReactJS (continuous learning) 
