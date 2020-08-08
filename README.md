@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Desenvolvedor apaixonado pelo desenvolvimento de aplicações com intuito de mudar a vida de seus usuários, tendo um impacto positivo na economia e na experiência do usuário.
+😄 Programador apaixonado pelo desenvolvimento de aplicações com intuito de mudar a vida de seus usuários, tendo um impacto positivo na economia e na experiência do usuário.
 
-😄 Developer passionate about application development in order to change the lives of its users, having a positive impact on the economy and user experience.
+😄 Programmer developer passionate about application development in order to change the lives of its users, having a positive impact on the economy and user experience.
 
 ### Developer Technologies 
  <p> PHP </p>
