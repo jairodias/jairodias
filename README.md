@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Developer Technologies 
  <p> PHP </p>
- <p>NodeJS (continuous learning)</p>
- <p>CSS</p>
- <p>ReactJS (continuous learning) </p>
+ <p> Laravel </p>
+ <p> POO </p>
+ <p> SOLID </p>
+
