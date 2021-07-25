@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 
 😄 Programmer developer passionate about application development in order to change the lives of its users, having a positive impact on the economy and user experience.
 
-### Developer Technologies 
- <p> PHP </p>
- <p> Laravel </p>
- <p> POO </p>
- <p> SOLID </p>
-
