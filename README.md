@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
 - 🔭 I’m currently working on PHP|Laravel
-- 🌱 I’m currently learning CI/CD
 - 😄 Pronouns: he/him
 
 
