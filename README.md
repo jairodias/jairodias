@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on PHP|Laravel
 - 😄 Pronouns: he/him
+- Learning: Nodejs
 
 
 <div style="margin-top: 2rem">
