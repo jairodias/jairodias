@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-- 🔭 I’m currently working on PHP|Laravel
+- 🔭 I’m currently working on PHP|Laravel|Nodejs|Express
 - 😄 Pronouns: he/him
 - Learning: Nodejs
 
